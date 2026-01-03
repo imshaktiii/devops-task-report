@@ -1,20 +1,29 @@
 
 # DevOps Task Report
 
-## 📌 Task Overview
+___Task Overview___
 This repository contains the execution proof and documentation of the DevOps terminal task assigned during the course.
 
-## 🖥 Commands Executed
+__Commands Executed__
 The following terminal commands were successfully performed:
-- `mkdir`
-- `touch`
-- `git init`
-- `git add`
-- `git commit`
-- `git status`
+-mkdir
+-cd
+-touch
+-mv
+-cat
+-head
+-tail
+-grep
+-zip
+-unzip
+-wget
+-chmod
+-export
+-echo
+
 *(Add or modify commands as per your actual task)*
 
-## 📸 Output Screenshots
+___ Output Screenshots ___
 All command execution screenshots are stored in the `screenshots/` folder as task submission proof.
 
 ## 🛠 Tools & Environment
@@ -23,7 +32,7 @@ All command execution screenshots are stored in the `screenshots/` folder as tas
 - Version Control: **Git**
 - Repository Hosting: **GitHub**
 
-## 🚀 Submission Purpose
+___Submission Purpose___
 This repository is created to fulfill the course requirement for submitting the **GitHub report link** as a proof of task completion.
 
 ---
