@@ -1,4 +1,3 @@
-
 # DevOps Task Report
 
 ___Task Overview___
