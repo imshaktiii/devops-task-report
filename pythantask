@@ -1,0 +1,18 @@
+#PYTHON TASK-
+### 1. Grade Checker
+- Implemented using basic `if-elif-else` conditions for grade evaluation.
+
+### 2. Student Grades Dictionary
+- Used dictionary operations to:
+  - Add new student + grade
+  - Update existing student grade
+  - Print all student records
+
+### 3. File Write Operation
+- Created text file using `open()` in write mode and added content using `write()` function.
+
+### 4. File Read Operation
+- Opened file in read mode and displayed content using `file.read()`.
+
+### 📎 Uploaded Files
+- `python-task-screenshots.pdf` → Contains screenshot proof of output
